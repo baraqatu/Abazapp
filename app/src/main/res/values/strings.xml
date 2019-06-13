@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Jajakhas App</string>
+    <string name="name">Nama Jajanan</string>
+    <string name="desc">Deskripsi</string>
+    <string name="category">Heavy Meal / Snack / Drinks</string>
+    <string name="description">Deskripsi</string>
+    <string name="favorite">Suka</string>
+    <string name="share">Bagikan</string>
+    <string name="title">Judul Jajanan</string>
+    <string name="namedev">Abdul Aziz Mubarak</string>
+    <string name="special">Content Creative</string>
+    <string name="contact">Contact \n\nabdulazizmubarak1@gmail.com</string>
+    <string name="about">https://baraqatu.blogspot.com/p/tentang.html</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
